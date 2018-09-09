@@ -9459,7 +9459,7 @@ function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.
 /***/
 function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(){(new Date).setTime(0),document.cookie="graphjscom_id=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT",document.cookie="graphjscom_token=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT"}},/* 208 */
 /***/
-function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}var o=n(0),a=r(o),i=n(121),l=n(10),s=n(318),u=r(s),c=function(){return a.default.createElement(l.BrowserRouter,null,a.default.createElement(u.default,null))};(0,i.render)(a.default.createElement(c,null),document.getElementById("root"))},/* 209 */
+function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}var o=n(0),a=r(o),i=n(121),l=n(10),s=n(318),u=r(s),c=function(){return a.default.createElement(l.BrowserRouter,{basename:Object({NODE_ENV:"production"}).PUBLIC_URL},a.default.createElement(u.default,null))};(0,i.render)(a.default.createElement(c,null),document.getElementById("root"))},/* 209 */
 ,/* 210 */
 ,/* 211 */
 ,/* 212 */
